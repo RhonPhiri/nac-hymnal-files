@@ -681,5 +681,132 @@
             ],
             "chorus": "Chorus: Dzinalo, labwino, chiyembezo chathu\nDzinalo labwino, chiyembezo chathu."
         }
+    },
+    {
+        "id": 51,
+        "title": "Lizani mabelu a kumwambako",
+        "otherDetails": "230 OLD HYMNAL FRONT\nRing the Bells of Heaven",
+        "lyrics": {
+            "verses": [
+                "1. Lizani mabelu a kumwambako\nWosocherayo wabweratu\nOna Atate akumana naye\nMwana wache wosochera.",
+                "2. Lizani mabelu a kumwambako\nWosochera wamasulidwa\nInde waomboledwa ku machimo\nWabadwa monga watsopano.",
+                "3. Lizani mabelu a kumwambako\nPhwando lache lakonzekadi\nTumizani uthenga kutaliko\nMoyo wabadwa kachiwiri."
+            ],
+            "chorus": "Chorus: Angelowo aimbitsadi\nUlemelero kwa Mulungu\nOwomboledwawo monga ankhondo\nAimba nyimbo ya ufulu."
+        }
+    },
+    {
+        "id": 52,
+        "title": "Mukhale ndine",
+        "otherDetails": "232NEH\n235 OLD HYMNAL FRONT\nAbide with Me",
+        "lyrics": {
+            "verses": [
+                "1. Mukhale ndine dzuwa lalowa\nWagwa usiku bwenzi lisowa\nNdilibe wina wondithandiza\nWa mphamvu ndinu mukhale ndinetu.",
+                "2. Ka moyo kanga katha leroli\nZidzachokanso zinthu za dziko\nZimasinthika zo-onekazo\nSimusinthika m'khale ndinetu.",
+                "3. Nthawitu ya kupemphera\nNdikhale mchifundo chanu\nMukatsogola sindiopai\nMsana usiku mkhale ndinetu.",
+                "4. Ndionetseni mtanda wanuwo\nMuunikire ine kumwamba\nMdima uthawa m'mawa wafika\nM'moyo mu imfa m'khale ndinetu."
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "title": "Kugonjetsa adzagonjetsa",
+        "otherDetails": "222NEH\n262 OLD HYMNAL FRONT\nVictory through Grace.",
+        "lyrics": {
+            "verses": [
+                "1. Kugonjetsa adzagonjetsa, Mfumu ili mu mphamvu\nAtsogoza okhulupirira, pakati pa nkhondoyo\nAkupita patsogolo, Oobvala zoyera mbeen\nMvani kuitana dzina, la mtsogoleri wao.",
+                "2. Kugonjetsa adzagonjetsa, kodi ndani Mfumuyo\nAtsogolera a nkhondowo, mu ulemelerowo\nAli Ambuye momboli, mpulumutsi ndi Mfumu\nNyenyezi zache zowala, mu Ufumu wachewo.",
+                "3. Kugonjetsa adzagonjetsa, Yesu Mfumu ya tonse\nMipando-ndodo, a korona, zaziko zonse zitha\nAnkhondo muwatsogoza, akhala owonadi\nMuwapeza mnyumba zanu, apuma ku nkhondo"
+            ],
+            "chorus": "Chorus: Sikwa a mphamvu munkhondo, Sikwa othamanga\nKoma okhulupirika, 'dzapambana mchisomo."
+        }
+    },
+    {
+        "id": 54,
+        "title": "Haya ! anzanga taonani",
+        "otherDetails": "184NEH\n265 OLD HYMNAL FRONT\nHold the Fort",
+        "lyrics": {
+            "verses": [
+                "1. Haya ! anzanga taonani, chenjezo\nMagulu ayandikira, kudzapambana.",
+                "2. Ankhondowo asatana, akupitabe\nAmphamvuwo ali kugwa, ali ndi mantha.",
+                "3. Mvani lipenga, mbendera.yakwezekatu\nMwa mtsogoleri wathuyo, tidzagonjetsa.",
+                "4. Nkhondo yalimba, thandizo liri pafupi\nWolamulira wafika, kondweranitu."
+            ],
+            "chorus": "Chorus: Yesu atichenjezatu, limbikanibe\nMwa chisomo tidzachita,\n.Yankhani m'mwamba."
+        }
+    },
+    {
+        "id": 55,
+        "title": "Molimbika mtima tidzayendabe",
+        "otherDetails": "219NEH\n274 OLD HYMNAL FRONT\nTolling Bravely onward",
+        "lyrics": {
+            "verses": [
+                "1. Molimbika mtima tidzayendabe\nM'chikondi cha Yesu, tsiku ndi tsiku\nSitiponya nkhondo kukondweretsa\nZofuna za anthu, koma za Khristu.",
+                "2. Molimbika mtima tidzayendabe\nAnthuwo aseke monga kwa Nowa\nMdani akalipe mantha palibe\nKhristu watichotsa uchimo wathu.",
+                "3. Molimbika mtima tidzayendabe\nAneneri ache anabvutika\nMu ntchito za Yesu monga Ambuye\nAtsogoleradi, ana achewo."
+            ],
+            "chorus": "Chorus: Ngakhale mdaniyo, pena namondwe\nMwa Atumwi ache, tidzayendabe."
+        }
+    },
+    {
+        "id": 56,
+        "title": "Mtima wanga",
+        "otherDetails": "244NEH\n276 OLD HYMNAL FRONT\nHere is My Heart.",
+        "lyrics": {
+            "verses": [
+                "1. Mtima wanga, Mlungu ndipereka, Inu woupanga\nMwana wanga ukane za dziko, imva mau ache\nMchisomo mphatso yapatsidwa, tengani Mlungu mudalitse\nNdipereka mtima wanga.",
+                "2. Mtima wangau, walandiratu uli wofokatu\nNdipereka mokhulupirika, mosanyozeratu\nNdizoipa waonetsedwa, wodzazidwa ndiuchimo\nMtima wanga woipatu.",
+                "3. Mtima wanga ukhale wamphamvu, udza ku mtandako\nNdanitu chuma chamoyo mu imfa yanuyo\nMumabala a Khristu Mbuye, ndipeza madalitso\nMtima wokhulupirika."
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "title": "Mzimu ndi mtsogoleri",
+        "otherDetails": "468NEH\n288 OLD HYMNAL FRONT\nHoly Spirit Faithful Guide",
+        "lyrics": {
+            "verses": [
+                "1. Mzimu ndi m'tsogoleri, m'njira ya chi-Khristuyo\nM'titsogoze ifetu, pa-ulendo wathuwo\nWotopa akondwere, pomva mau achewo\nPakunena Mzimuyo, wosochera bweratu.",
+                "2. Pafupi ndi bwezilo, m'chithandizo chanucho\nSi-tidera nkhawazo, poyenda mu m'dimawo\nPakuomba mphepozo, pakufoka mtimatu\nPakunena Mzimuyo, wosochera bweratu.",
+                "3. M'mene bvuto lidzatu, poyembekezeratu,\nM'mapemphero athuwo, ngati talembedwamo\nMumadzi osefukawo, mu mwazi wa Yesuyo\nPakunena Mzimuyo, wosochera bweratu."
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "title": "Yesu mundiyendetse",
+        "otherDetails": "196NEH\n292 OLD HYMNAL FRONT\nJesus Saviour Pilot Me",
+        "lyrics": {
+            "verses": [
+                "1. Yesu mundiyendetse, pa nyanja ya namondwe\nMafunde akauka, mu mathanthwe anyanja\nKhalani maso anga, Yesu mundiyendetse.",
+                "2. Monga mwana kwa mache, tonthozani nyanjayo\nNyanja zikumverani, m'mene munena chete\nWoweruza wa nyanja, Yesu mundiyendetse.",
+                "3. Pofika kutsidyalo, ndimkokomo wa nyanja\nPafupi ndi mtendere, pa chifukwa chanucho\nNdimva kundi-itana, 'ndidzakuyendetsani'."
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "title": "Mulungu anditsogoza",
+        "otherDetails": "247NEH\n296 OLD HYMNAL FRONT\nJust as God leads Me",
+        "lyrics": {
+            "verses": [
+                "1. Mulungu anditsogoza, sindisankha njira yanga\nNdikhutira zopatsidwa, sandisocheretsa ine\nNdiyenda mokondweradi, mmene atsogoza mnjira\nMongatu mwana wache.",
+                "2. Mulungu anditsogoza, ndipumula mdzanja lache\nMuchimene anatuma, mwa kulamulira kwache\nNdifuna kukwaniritsa, mukumalizitsa kwache\nMu moyo pena imfa.",
+                "3. Mulungu anditsogoza, ndikhulupira iye\nMkuunika kwa chinyengocho, ndiyenda mu uphungu wache\nChikondi cha chilungamo, pondi-ika m'ku-unika\nNdigonjera kwa iye.",
+                "4. Mulungu anditsogoza, mu chiyembekezerocho\nNdipatsidwa mphamvu zache, sindisintha chiri chonse\nTero ndakhazikikadi, ndi ika moyo mwa iye\nWondipatsa chifundo."
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "title": "M'nditsogoze m'ku-unika",
+        "otherDetails": "297 OLD HYMNAL FRONT\nLead Kindly Light",
+        "lyrics": {
+            "verses": [
+                "1. M'nditsogoze m'ku-unika kwanu\nM'dimawo wafika, ndiri kutari ndi kwathu\nMunditsogolere, sungani mapazi anga\nPa ulendo wanga wa ku-mudzi.",
+                "2. Sindinakupemphani nthawi zonse\nKunditsogolera, ndinakonda njira zanga\nNdinakonda tsiku labwino, m'nthawi ya nthawi\nMusakumbuke zanga zakale.",
+                "3. Mphamvu yanu yadalitsa ine,\nNdidzatsogoleredwa m' madambo ndi m'mapiri\nUsikuwo wafika ndi m'mawa wafikadi\nUmene ndinafuna kuona."
+            ]
+        }
     }
 ]
