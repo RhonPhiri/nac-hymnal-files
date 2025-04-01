@@ -4,7 +4,7 @@ This repo contains hymns, hymnals & audio files used in the New Apostolic Church
 If the're any typos, new hymnals or suggestions, create a new issue
 ## New files
 If the're new hymnals that you would like to add, ensure that they are in .json format and add them in t
-- Add the hymnal in the config.json file
+- Add the hymnal in the hymnals.json file
 - For a hymnal, add its respective hymns, ensure that the following format is followed;
 ```json
 [
