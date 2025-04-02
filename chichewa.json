@@ -705,7 +705,8 @@
                 "2. Ka moyo kanga katha leroli\nZidzachokanso zinthu za dziko\nZimasinthika zo-onekazo\nSimusinthika m'khale ndinetu.",
                 "3. Nthawitu ya kupemphera\nNdikhale mchifundo chanu\nMukatsogola sindiopai\nMsana usiku mkhale ndinetu.",
                 "4. Ndionetseni mtanda wanuwo\nMuunikire ine kumwamba\nMdima uthawa m'mawa wafika\nM'moyo mu imfa m'khale ndinetu."
-            ]
+            ],
+            "chorus": ""
         }
     },
     {
@@ -757,7 +758,8 @@
                 "1. Mtima wanga, Mlungu ndipereka, Inu woupanga\nMwana wanga ukane za dziko, imva mau ache\nMchisomo mphatso yapatsidwa, tengani Mlungu mudalitse\nNdipereka mtima wanga.",
                 "2. Mtima wangau, walandiratu uli wofokatu\nNdipereka mokhulupirika, mosanyozeratu\nNdizoipa waonetsedwa, wodzazidwa ndiuchimo\nMtima wanga woipatu.",
                 "3. Mtima wanga ukhale wamphamvu, udza ku mtandako\nNdanitu chuma chamoyo mu imfa yanuyo\nMumabala a Khristu Mbuye, ndipeza madalitso\nMtima wokhulupirika."
-            ]
+            ],
+            "chorus": ""
         }
     },
     {
@@ -769,7 +771,8 @@
                 "1. Mzimu ndi m'tsogoleri, m'njira ya chi-Khristuyo\nM'titsogoze ifetu, pa-ulendo wathuwo\nWotopa akondwere, pomva mau achewo\nPakunena Mzimuyo, wosochera bweratu.",
                 "2. Pafupi ndi bwezilo, m'chithandizo chanucho\nSi-tidera nkhawazo, poyenda mu m'dimawo\nPakuomba mphepozo, pakufoka mtimatu\nPakunena Mzimuyo, wosochera bweratu.",
                 "3. M'mene bvuto lidzatu, poyembekezeratu,\nM'mapemphero athuwo, ngati talembedwamo\nMumadzi osefukawo, mu mwazi wa Yesuyo\nPakunena Mzimuyo, wosochera bweratu."
-            ]
+            ],
+            "chorus": ""
         }
     },
     {
@@ -781,7 +784,8 @@
                 "1. Yesu mundiyendetse, pa nyanja ya namondwe\nMafunde akauka, mu mathanthwe anyanja\nKhalani maso anga, Yesu mundiyendetse.",
                 "2. Monga mwana kwa mache, tonthozani nyanjayo\nNyanja zikumverani, m'mene munena chete\nWoweruza wa nyanja, Yesu mundiyendetse.",
                 "3. Pofika kutsidyalo, ndimkokomo wa nyanja\nPafupi ndi mtendere, pa chifukwa chanucho\nNdimva kundi-itana, 'ndidzakuyendetsani'."
-            ]
+            ],
+            "chorus": ""
         }
     },
     {
@@ -794,7 +798,8 @@
                 "2. Mulungu anditsogoza, ndipumula mdzanja lache\nMuchimene anatuma, mwa kulamulira kwache\nNdifuna kukwaniritsa, mukumalizitsa kwache\nMu moyo pena imfa.",
                 "3. Mulungu anditsogoza, ndikhulupira iye\nMkuunika kwa chinyengocho, ndiyenda mu uphungu wache\nChikondi cha chilungamo, pondi-ika m'ku-unika\nNdigonjera kwa iye.",
                 "4. Mulungu anditsogoza, mu chiyembekezerocho\nNdipatsidwa mphamvu zache, sindisintha chiri chonse\nTero ndakhazikikadi, ndi ika moyo mwa iye\nWondipatsa chifundo."
-            ]
+            ],
+            "chorus": ""
         }
     },
     {
@@ -806,7 +811,152 @@
                 "1. M'nditsogoze m'ku-unika kwanu\nM'dimawo wafika, ndiri kutari ndi kwathu\nMunditsogolere, sungani mapazi anga\nPa ulendo wanga wa ku-mudzi.",
                 "2. Sindinakupemphani nthawi zonse\nKunditsogolera, ndinakonda njira zanga\nNdinakonda tsiku labwino, m'nthawi ya nthawi\nMusakumbuke zanga zakale.",
                 "3. Mphamvu yanu yadalitsa ine,\nNdidzatsogoleredwa m' madambo ndi m'mapiri\nUsikuwo wafika ndi m'mawa wafikadi\nUmene ndinafuna kuona."
-            ]
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 61,
+        "title": "Yesu bwenzi langadi",
+        "otherDetails": "195NEH\n304 OLD HYMNAL FRONT\nJesus Lover of My Soul",
+        "lyrics": {
+            "verses": [
+                "1. Yesu bwenzi langadi, ndithawira kwathu,\nPokwera madzi anyanja, pouka chimphepocho.",
+                "2. Kothawira ndiribe, chithandizo changanu\nMusandisiye ndekha, munditonthoze ine.",
+                "3. Chikhulupiliro changa, chithandizo ndinu\nMuphimbe mutu wanga, ndi mapiko anuwo.",
+                "4. Chisomocho chambiri, chiphimba tchimo\nMumtsinje wochiritsa, ndiyeretseni ine",
+                "5. Ndinu mtsinje wa moyo, ndimwe mu kasupe\nDzutsani moyo wanga, ukwere ku muyaya.",
+                "6. Ndibisale mwa inu, namondweyo apita\nMnditsogoze kumwamba, mndilandire kwanu."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 62,
+        "title": "Dzuwa langa",
+        "otherDetails": "304 OLD HYMNAL FRONT\nSun of My Soul",
+        "lyrics": {
+            "verses": [
+                "1. Dzuwa langa M'pulumutsi, sikungade, mfupi ndi Inu\nMitamboyo singadzetu, kubisa nkhope yanuyo.",
+                "2. M'mene madontho amame, agwetsa zikope zanga\nGanizo la kupumula, pa chifuwa cha Mbuye.",
+                "3. Mkhale nane dzuwa lonse, popanda Inu ndidzafa\nMukhale nane usiku, kuti ndikhale ndi moyo.",
+                "4. Mundidalitse pouka, kuti ndiyende m'dzikomo\nNdikhale m'chikondi chanu, ndipenye za kumwambako."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 63,
+        "title": "Chikhulupiriro chathu",
+        "otherDetails": "207NEH\n267 OLD HYMNAL FRONT\nSafely faith through life",
+        "lyrics": {
+            "verses": [
+                "1. Chikhulupiriro chathu, chili mudzanja lache\nChithandiza, chilimbitsa, mumphamvu ya chikondi\nChithandiza, chilimbitsa, mumphamvu ya chikondi.",
+                "2. Chikondi sichifoketsa, zo-oneka mwa ena\nChifundo cha Mpulumutsi, chiphimbadi zolakwa\nChifundo cha Mpulumutsi, chiphimbadi zolakwa.",
+                "3. Chiyembekezero chathu, popenya za mtsogolo\nChitonthoza mu zowawa, kufikira zidzatha\nChitonthoza mu zowawa, kufikira zidzatha.",
+                "4. Mwa chiphunzitso cha Yesu, momwemonso tikhale\nMu ntchito ndi chikhalidwe, ulemu kwa Mulungu\nMu ntchito ndi makhalidwe, ulemu kwa Mulungu."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 64,
+        "title": "Muzisoni ndapeza chikondwerero",
+        "otherDetails": "192NEH\n58 OLD HYMNAL FRONT\nI've Found a Joy in Sorrow",
+        "lyrics": {
+            "verses": [
+                "1. Muzisoni ndapeza chikondwerero\nTsiku lina labwino ndi dzuwa lawala\nMalo ochiritsawo, Mfumu ndi kasupe\nMbuye atonthozadi, moyo woswekawo\nMbuye atonthozadi, moyo woswekawo.",
+                "2. Mumatsoka ndapeza chisangalalocho\nNdapeza manna, koma mphesa sizibala\nNdapeza thanthwe, kasupe mchipululu\nNdapeza m'pumulowo, nditabvutikadi\nNdapeza m'pumulowo, nditabvutikadi.",
+                "3. Malo otsitsimutsa, ndi akasupewo\nM'dalitso okwanira, mulonjezanolo\nPambuyo pa misozi, ndaona dzuwalo\nLindikwaniritsadi, lichotsa zowawa\nLindikwaniritsadi, lichotsa zowawa.",
+                "4. Mwampulumutsi wanga, ndisangalaladi,\nNdipeza machiritso ndi madalitsowo,\nLonjezano la iwo, woopa Mulungu\nNdiwo ulemerero, wompatsa M'tima\nNdi ulemerero wompatsa M'tima."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 65,
+        "title": "Ndipenya kwa inu",
+        "otherDetails": "495NEH\n49 OLD HYMNAL FRONT\nMy Faith looks up to Thee",
+        "lyrics": {
+            "verses": [
+                "1. Ndipenya kwa inu mwana wa nkhosanu\nM'pulumutsi, ndimvereni ine\nMundichotseretu, machimo angawo, ndiyere mbee.",
+                "2. Mundipatsa mphamvu, ku m'tima wofoka\nNdilimbetu, munandiferatu\nChikondi chanucho, chisasinthe konse, monga moto,",
+                "3. Poyenda mum'dima, ndi zisoni zanga\nM'nditsogoze, chotsani m'dimawo\nBvuto ndi misozi, ndisasocheretu, kusiya'nu.",
+                "4. Pakutha kwa moyo, pakudza imfayo\nKundizinga M'pulumutsi wanga\nChotsani manthawo, nditengeni ine, kumwambako."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 66,
+        "title": "Usikuwo pa phirilo",
+        "otherDetails": "54 OLD HYMNAL BACK/ADDENDA\n'Tis midnight",
+        "lyrics": {
+            "verses": [
+                "1. Usikuwo paphirilo, nyenyezi zasiyatu\nUli usiku m'mundamo, Mbuye apemphera yekha.",
+                "2. Usikuwo, zonse zatha, Mbuye avutika yekha\nIye anamkondayo, sasamala mabvutowo.",
+                "3. Usikuwo, m'chimo lathu, Mbuye alira m'mwaziwo\nAmene abvutikadi, sadzachotsedwa kwa iye.",
+                "4. Usikuwo bvuto latha, liumbika ndi Angelo\nYosadziwika ndi anthu, nyimboyo yotonthoza Mbuyeyo."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 67,
+        "title": "Kutali ndi mizinda ya Anthu",
+        "otherDetails": "58 OLD HYMNAL BACK/ADDENDA\nWandering a far",
+        "lyrics": {
+            "verses": [
+                "1. Kutali ndi mizinda ya anthu, mvani kufu-ula kwa a khate\nYesu mutichitire chifundo, mutichiritse matenda athu.",
+                "2. M'modziyo atayamika Mbuye, anachiritsidwa mumauwo\nKutama m'chiritsi wamkuluyo, komabe enawo ali kuti?",
+                "3. Afarisi afunsa za Yesu, ndiwe Khristu kodi? Utiuze\nUnyinjiwo wotsatira iye, komatu enanso, ali kuti?"
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 68,
+        "title": "Yamikani inu Ambuye",
+        "otherDetails": "62NEH\nThank Ye the Lord",
+        "lyrics": {
+            "verses": [
+                "1. Yamikani inu Ambuye\nPakuti inu muli ndi chikondi chosatha\nChiri cha muyaya, chiri cha muyaya.",
+                "2. Tamandani inu Ambuye\nMoyo wanga kumbuka zimene wakuchitira\nWakuchitiradi, wakuchitiradi.",
+                "3. Wamphamvuyo, Mulungu wathu\nNtchito zache za nzeru, Apatsa chisomo chache\nChiri cha tsopano, chiri cha tsopano.",
+                "4. Wamkuluyo, Mulungu wathu\nDziko lonse lidzakhala ndi ulemelero wache\nUlemelerowo, ulemelerowo.",
+                "5. Imbiradi ! Ambuye wathu\nIye akumva nyimbo zathu, za chisangalalo\nAmvera nyimbozo, amvera nyimbozo."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 69,
+        "title": "Chaka ichi chikutha",
+        "otherDetails": "483NEH\nThe year so still is Ending",
+        "lyrics": {
+            "verses": [
+                "1. Chaka ichi chikutha Mtima wanga fatsa\nKwa Mlungu Tate wathu tipereke zonse\nZamchaka ichi zonse Mlungu akudziwa\nMabala athu onse ndi misonzi yathu.",
+                "2. Chisoni nchachikulu chimwemwe nchochepa\nMsanga tinalekana ndi okondedwawo\nMaso milomo yawo, imfa inatseka, sangalaladi\nLakhulanso zowawazi mchotse",
+                "3. Kuti tisayiwale timayiwalazo\nKuti dziko lapansi simudziwa wathuwu,\nMbuye ali ndi ache omwe abadwanso anagulira iwo\nMzinda wazioni.",
+                "4. Mdzikoli tilekana m'misonzi mzowawa\nKutsidya tidzakondwa kwa nthawi zosatha\nTipatseni mtendere tithe kuonanso\nYendani nafe Mbuye kunka kumwambako."
+            ],
+            "chorus": ""
+        }
+    },
+    {
+        "id": 70,
+        "title": "Mu Chisokonezo Cha Anthu Onse",
+        "otherDetails": "53 NAH\nMid Scenes of Confusion",
+        "lyrics": {
+            "verses": [
+                "1. Mu chisokonezo cha anthu onse,\nMoyo wanga ukondwera ndi oyera\nPa phwandolo pali malo angadi\nNdikhazikika mwa Yesu Mbuyeyo",
+                "2. Umodzi wa anawo a mtendere\nMchikondi chache chosalekadi\nNgakhale ndiyenda muzisonizo\nNdifunitsa kupenya nkhope yanu",
+                "3. Ndifuna kumasuka mu uchimo\nUndiletsa chikondwelero changa\nMayeso anga ndiukiradi\nNdidzakhala mtendere ndi Inu",
+                "4. Ndikhala muchigwa cha mabvuto\nNdipatseni mphamvuzo nthawi zonse\nNdibwera kwa Inu m'mabvuto anga\nKuyembekezera mudzi wanga",
+                "5. Ndipatseni ine chisomo chanu\nMzimu undisangalalitse\nNdipatseni chifaso kudikira\nKuyembekezera mudzi wangawo",
+                "6. Ndifunitsitsa nkhope yanuyo\nMonga ndiri mu dziko la zisoni\nMu chifanizo chanu ndiukedi\nNdi zikwizo kunka kumudzi kwathu"
+            ],
+            "chorus": "Chorus; Kwathu, kwathu, mudzi wanga\nNdikonzeni ndikafike kumudzi"
         }
     }
 ]
